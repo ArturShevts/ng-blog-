@@ -1,3 +1,7 @@
+# Hosting 
+
+This project is hosted at https://ng-blog-c8bc8.web.app/blog 
+
 # NgBlog
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
